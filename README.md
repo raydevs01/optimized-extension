@@ -17,7 +17,7 @@ Chrome extension that reduces memory usage by intelligently suspending inactive 
 
 ## Bug Reports
 
-Found a bug? [Report it here] [Link] (https://github.com/raydevs01/optimized-extension/blob/main/.github/ISSUE_TEMPLATE/bug_report.md).
+Found a bug? [Report it here] [Link](https://github.com/raydevs01/optimized-extension/blob/main/.github/ISSUE_TEMPLATE/bug_report.md).
 
 ## Privacy
 
