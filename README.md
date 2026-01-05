@@ -2,10 +2,6 @@
 
 Chrome extension that reduces memory usage by intelligently suspending inactive tabs.
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
-[![Users](https://img.shields.io/chrome-web-store/users/YOUR_EXTENSION_ID)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
-[![Rating](https://img.shields.io/chrome-web-store/rating/YOUR_EXTENSION_ID)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
-
 ## Features
 
 - 🔄 Automatic tab suspension
@@ -17,7 +13,7 @@ Chrome extension that reduces memory usage by intelligently suspending inactive 
 
 ## Installation
 
-[Install from Chrome Web Store](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
+[Install from Chrome Web Store]([https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID](https://chromewebstore.google.com/detail/optimized-ram-manager/mahgcggahcbplkpmpmhdnbdjbcnoafcg))
 
 ## Bug Reports
 
