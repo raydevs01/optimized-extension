@@ -13,11 +13,11 @@ Chrome extension that reduces memory usage by intelligently suspending inactive 
 
 ## Installation
 
-[Install from Chrome Web Store]([Linik](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID](https://chromewebstore.google.com/detail/optimized-ram-manager/mahgcggahcbplkpmpmhdnbdjbcnoafcg))
+[Install from Chrome Web Store] [Link](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID](https://chromewebstore.google.com/detail/optimized-ram-manager/mahgcggahcbplkpmpmhdnbdjbcnoafcg))
 
 ## Bug Reports
 
-Found a bug? [Report it here]([https://github.com/TU-USUARIO/optimized/issues](https://github.com/raydevs01/optimized-extension/blob/main/.github/ISSUE_TEMPLATE/bug_report.md))
+Found a bug? [Report it here] [Link] (https://github.com/raydevs01/optimized-extension/blob/main/.github/ISSUE_TEMPLATE/bug_report.md).
 
 ## Privacy
 
